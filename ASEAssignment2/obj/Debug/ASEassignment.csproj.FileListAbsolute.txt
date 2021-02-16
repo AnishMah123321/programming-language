@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.Form1.resources
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.csproj.CopyComplete
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.exe
+C:\Users\User\Desktop\Assignment\PP\c7190034\ASEAssignment\ASEAssignment2\obj\Debug\ASEassignment.pdb
+C:\Users\User\Desktop\ASEassignment.exe.config
+C:\Users\User\Desktop\ASEassignment.xml
+C:\Users\User\Desktop\ASEassignment.exe
+C:\Users\User\Desktop\ASEassignment.pdb
+D:\c7190034\ASEassignment.exe.config
+D:\c7190034\ASEassignment.exe
+D:\c7190034\ASEassignment.pdb
+D:\c7190034\ASEassignment.xml

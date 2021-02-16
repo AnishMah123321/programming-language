@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ASEassignment</name>
+    </assembly>
+    <members>
+        <member name="T:ASEassignment.Circle">
+            <summary>
+            To create circle
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Circle.drawShape(System.String[],System.Drawing.Graphics,System.Int32,System.Int32)">
+            <summary>
+            
+            It is used to draw circle
+            </summary>
+            <param radius="res"></param>
+            <param graphics="g"></param>
+            <param point_one="k"></param>
+            <param point_two="l"></param>
+        </member>
+        <member name="T:ASEassignment.Drawto">
+            <summary>
+            To create line
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Drawto.drawShape(System.String[],System.Drawing.Graphics,System.Int32,System.Int32)">
+            <summary>
+            to deaw a line
+            </summary>
+            <param coordinates="res"></param>
+            <param graphics="g"></param>
+            <param point_one="k"></param>
+            <param point_two="l"></param>
+        </member>
+        <member name="T:ASEassignment.Form1">
+            <summary>
+            creating class form1
+            </summary>
+        </member>
+        <member name="P:ASEassignment.Form1.Validator">
+            <summary>
+            not used
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Form1.#ctor">
+            <summary>
+            initializing component
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Form1.Runboxmethod">
+            <summary>
+            Single line command compiler
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Form1.looper(System.Int32,System.Int32)">
+            <summary>
+            Compile command in loop
+            </summary>
+            <param no_of_times_to_loop="loopvalue"></param>
+            <param current_index_in_array="counter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ASEassignment.Form1.ifmethodw(System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            To check if paramater
+            </summary>
+            <param variable_to_compare ="variable"></param>
+            <param symbol="symb"></param>
+            <param number_to_compare="numb"></param>
+            <param index_in_array="lineno"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ASEassignment.Form1.ifmethod(System.Int32)">
+            <summary>
+            to run command inside if
+            </summary>
+            <param index_in_array="lineno"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ASEassignment.Form1.methodmethod(System.Int32)">
+            <summary>
+            method creation
+            </summary>
+            <param index_in_array="lineno"></param>
+        </member>
+        <member name="M:ASEassignment.Form1.GrouptextboxMethod">
+            <summary>
+            compile command in group line box
+            </summary>
+        </member>
+        <member name="F:ASEassignment.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ASEassignment.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ASEassignment.Interface1">
+            <summary>
+            Interface created
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ASEassignment.Rectangle">
+            <summary>
+            to create rectangle
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Rectangle.drawShape(System.String[],System.Drawing.Graphics,System.Int32,System.Int32)">
+            <summary>
+            It is used to draw rectangle
+            </summary>
+            <param length_and_height="res"></param>
+            <param graphuics="g"></param>
+            <param point_one="k"></param>
+            <param poinnt_two ="l"></param>
+        </member>
+        <member name="M:ASEassignment.ShapeChooser.getShape(System.String)">
+             <summary>
+            To choose shape
+             </summary>
+             <param shape_identifier="text"></param>
+             <returns></returns>
+        </member>
+        <member name="T:ASEassignment.Triangle">
+            <summary>
+            to create triangle
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Triangle.drawShape(System.String[],System.Drawing.Graphics,System.Int32,System.Int32)">
+            <summary>
+            To draw a triangle
+            </summary>
+            <param sides="res"></param>
+            <param graphics="g"></param>
+            <param point_one="k"></param>
+            <param point_two="l"></param>
+        </member>
+        <member name="T:ASEassignment.Validator">
+            <summary>
+            class validator for validation
+            </summary>
+        </member>
+        <member name="M:ASEassignment.Validator.getValidate(System.String)">
+            <summary>
+            To Validate and check syntax of commands
+            </summary>
+            <param commands="a"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ASEassignment.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ASEassignment.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ASEassignment.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
